@@ -5,7 +5,7 @@ This repository showcases a sample Node.js web application and demonstrates a co
 
 ---
 
-## 🚩 Key Features
+## 🖥️ Key Features
 
 - **Sample Node.js App**: Basic web application for demonstration.
 - **Automated CI/CD Pipeline**: Uses GitHub Actions to test, build, and deploy automatically.
